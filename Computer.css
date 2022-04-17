@@ -1,0 +1,30 @@
+body{
+  background-size: cover;
+}
+.heading{
+  width: 100%;
+  margin: 0;
+  font-size: 20px;
+}
+
+#status
+{
+font-size: 18px;
+}
+#back
+{
+    font: bold 15px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 5px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    float: right;
+}
+img { 
+  width: 100%; 
+  max-width: 100%;  
+} 
